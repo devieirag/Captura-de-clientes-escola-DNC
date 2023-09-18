@@ -30,6 +30,7 @@ font-family: inter;
 #menusup {
     background-image: url(../img/menusup/fundoms.svg);
     color: aliceblue;
+
 }
 
 /*fim menusup aqui*/
@@ -181,5 +182,55 @@ color: white;
 transform: translateY(-7px);
 box-shadow: 0px 15px 20px #05103081;
 transition-duration: 0.5s;
+
+}
+
+@media only screen and (max-width:600px){
+
+/*menu superior*/
+
+#logo{
+
+        width:16%;
+        margin-left: 5%;
+        margin-top: 5%;
+
+    }
+
+#titlems {
+
+        margin-left: 11%;
+        margin-top: 7.5%;
+        font-size: 20px;
+
+    }
+
+    #textms {
+
+        margin-left: 11%;
+        margin-top: 1.83%;
+        padding-bottom: 7.32%;
+        font-size: 10px;
+
+    }
+
+
+
+/*menu informacional*/
+
+.icones {
+
+    margin: 3.66% 0% 3.66% 7.32%;
+    width: 12%;
+    
+
+}
+
+.texti {
+
+font-size: 6px;
+
+}
+
 
 }
