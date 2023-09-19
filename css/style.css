@@ -198,27 +198,27 @@ flex-shrink: 0;
 #logo{
 
         width:16%;
-        margin-left: 5%;
-        margin-top: 4%;
+        margin-left: 3.66%;
+        margin-top: 3.66%;
 
     }
 
 #titlems {
 
-        margin-left: 5%;
-        margin-top: 7.5%;
+        margin-left: 7%;
+        margin-top: 5.49%;
+        padding-bottom: 7.32%;
         font-size: 25px;
+        
 
     }
 
     #textms {
 
-        margin-left: 5%;
+        margin-left: 7%;
         margin-top: 1.83%;
         padding-bottom: 7.32%;
-        font-size: 16px;
-
-
+        font-size: 96%;
     }
 
 
