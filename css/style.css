@@ -199,18 +199,19 @@ transition-duration: 0.5s;
 
 #titlems {
 
-        margin-left: 11%;
+        margin-left: 8%;
         margin-top: 7.5%;
-        font-size: 30px;
+        font-size: 25px;
 
     }
 
     #textms {
 
-        margin-left: 11%;
+        margin-left: 8%;
         margin-top: 1.83%;
         padding-bottom: 7.32%;
-        font-size: 15px;
+        font-size: 17px;
+        
 
     }
 
