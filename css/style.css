@@ -218,7 +218,8 @@ flex-shrink: 0;
         margin-left: 7.5%;
         margin-top: 1.83%;
         padding-bottom: 7.32%;
-        font-size: 96%;
+        font-size: 99%;
+        
     }
 
 
@@ -253,7 +254,7 @@ padding: 10%;
 
 #video {
 
-width: 90%;
+width: 100%;
 
 
 }
