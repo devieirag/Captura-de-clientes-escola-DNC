@@ -205,7 +205,7 @@ flex-shrink: 0;
 
 #titlems {
 
-        margin-left: 7.5%;
+        margin-left: 5%;
         margin-top: 5.49%;
         padding-bottom: 7.32%;
         font-size: 25px;
@@ -215,10 +215,10 @@ flex-shrink: 0;
 
     #textms {
 
-        margin-left: 7.5%;
+        margin-left: 5%;
         margin-top: 1.83%;
-        padding-bottom: 7.32%;
-        font-size: 99%;
+        font-size: 100%;
+        text-align: start;
         
     }
 
