@@ -205,9 +205,8 @@ flex-shrink: 0;
 
 #titlems {
 
-        margin-left: 5%;
+        margin-left: 10.98%;
         margin-top: 5.49%;
-        padding-bottom: 7.32%;
         font-size: 25px;
         
 
@@ -215,13 +214,13 @@ flex-shrink: 0;
 
     #textms {
 
-        margin-left: 5%;
+        margin-left: 10.98%;
         margin-top: 1.83%;
+        padding-bottom: 7.32%;
         font-size: 100%;
         text-align: start;
         
     }
-
 
 
 /*menu informacional*/
@@ -266,15 +265,19 @@ width: 100%;
     color: #247ba0;
     margin-top: 3.66%;
     font-size: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+
 }
 
 
 #textovi {
 
 
-font-size: 80%;
+font-size: 100%;
 padding-bottom: 10%;
-
+padding-left: 5%;
+padding-right: 5%;
 
 }
 
