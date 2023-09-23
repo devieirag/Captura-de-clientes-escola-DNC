@@ -294,36 +294,41 @@ text-align: center;
 }
 
 /*carossel*/
+    
+
+
 
 #carrossel {
-
     padding: 3.66%;
-    
+    align-items: center;
 }
 
-
-
 #titulocr {
-
-    font-size: 15px;
+   
+    font-size: 16px;
 }
 
 #cards {
-   
     margin-top: 1.83%;
-    
+
 }
 
 .icr {
     margin-left: 5.85%;
-    width: 125px;
-}
-
-#setas {
-
-margin-top: 12%;
+    width: 20vh;
+    align-items: center;
 
 }
+
+.setas {
+
+
+display: flex;
+margin-right: 100%;
+
+}
+
+
 
 /*fim do carrossel aqui*/
 
