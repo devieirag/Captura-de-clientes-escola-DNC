@@ -271,21 +271,19 @@ width: 100%;
 
 #titulovi {
     color: #247ba0;
-    margin-top: 3.66%;
-    font-size: 25px;
-    padding-left: 5%;
-    padding-right: 5%;
+    margin-top: 5.49%;
+    font-size: 20px;
+    text-align: center;
+
 
 }
 
 
 #textovi {
 
-
-font-size: 100%;
+font-size: 11px;
 padding-bottom: 10%;
-padding-left: 5%;
-padding-right: 5%;
+text-align: center;
 
 }
 
@@ -300,6 +298,7 @@ padding-right: 5%;
 #carrossel {
 
     padding: 3.66%;
+    
 }
 
 
@@ -310,52 +309,21 @@ padding-right: 5%;
 }
 
 #cards {
-    display: grid;
-    grid-auto-flow: column;
+   
     margin-top: 1.83%;
     
 }
 
 .icr {
     margin-left: 5.85%;
-    width: 150px;
-    align-items: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-
+    width: 125px;
 }
 
-#setadir {
-    display: none;
+#setas {
+
+margin-top: 12%;
 
 }
-
-#setaesq {
-
-
-    margin-top: 4.02;
-
-}
-
-#brun {
-    display: none;
-
-}
-
-
-.setas {
-
-    margin-top: 4.02%;
-    cursor: pointer;
-
-}
-
-.setas:hover {
-
-    transform: translateY(-7px);
-    transition-duration: 0.5s;
-}
-
 
 /*fim do carrossel aqui*/
 
