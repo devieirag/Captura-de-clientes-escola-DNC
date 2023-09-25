@@ -111,6 +111,8 @@ margin-left: 80px;
 
 #setadir
 {
+
+margin-top: 10%;
 display: none;
 
 }
@@ -118,6 +120,7 @@ display: none;
 #brun
 {
 display: none;
+padding-right: 105px;
 
 }
 
@@ -127,6 +130,7 @@ display: none;
     cursor: pointer;
 
 }
+
 
 .setas:hover{
 
@@ -314,20 +318,20 @@ text-align: center;
 }
 
 .icr {
-    margin-left: 5.85%;
-    width: 20vh;
+    margin-left: 1%;
+    width: 150px;
     align-items: center;
 
 }
 
-.setas {
 
 
-display: flex;
-margin-right: 100%;
+#brun {
+
+margin-left: 14.5%;
+padding-bottom: 26%;
 
 }
-
 
 
 /*fim do carrossel aqui*/
