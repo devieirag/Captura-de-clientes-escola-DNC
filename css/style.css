@@ -106,6 +106,19 @@ margin-top: 25px;
 
 .icr  {
 margin-left: 80px;
+object-fit: cover;
+
+}
+
+#brun {
+
+display: none;
+
+}
+
+#sama{
+
+display: none;
 
 }
 
@@ -117,12 +130,7 @@ display: none;
 
 }
 
-#brun
-{
-display: none;
-padding-right: 105px;
 
-}
 
 .setas {
 

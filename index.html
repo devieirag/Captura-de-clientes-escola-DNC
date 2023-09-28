@@ -18,7 +18,6 @@
       media="screen"
       href="./css/style.css"
     />
-    <script src="main.js"></script>
   </head>
   <body>
     <div id="menusup">
@@ -92,21 +91,22 @@
 
     <div id="carrossel">
       <h1 id="titulocr">Mais de 500 alunos já iniciaram seus estudos</h1>
+
       <div id="cards">
-        <img id="leo" class="icr" src="./img/cards/leo.svg" alt="ERRO" />
-        <img id="sama" class="icr" src="./img/cards/sama.svg" alt="ERRO" />
         <img
-          id="setadir"
-          onclick="rolesq()"
+          id="prev-button"
           class="setas"
           src="./img/setas/setaesq.svg"
           alt="ERRO"
+          onclick="roldir()"
         />
+        <img id="leo" class="icr" src="./img/cards/leo.svg" alt="ERRO" />
+        <img id="sama" class="icr" src="./img/cards/sama.svg" alt="ERRO" />
         <img id="brun" class="icr" src="./img/cards/bru.svg" alt="ERRO" />
         <img
-          id="setaesq"
-          onclick="roldir()"
+          id="next-button"
           class="setas"
+          onclick="rolesc()"
           src="./img/setas/setadir.svg"
           alt="ERRO"
         />
@@ -133,7 +133,6 @@
         <button type="submit">Acesse a ementa grátis</button>
       </form>
     </div>
-
-    <script src="./js/index.js"></script>
+    <script src="./js/script.js"></script>
   </body>
 </html>
