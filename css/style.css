@@ -101,15 +101,11 @@ align-items: center;
 display: grid;
 grid-auto-flow: column;
 margin-top: 25px;
-
-
-}
-
-.icr {
-
 align-items: center;
 
+
 }
+
 
 
 #brun {
@@ -125,6 +121,7 @@ display: none;
 }
 
 
+
 #next-button {
 
 
@@ -134,7 +131,6 @@ transform: rotate(180deg);
 
 .setas {
 
-    margin-top: 30%;
     cursor: pointer;
 
 }
@@ -324,13 +320,12 @@ text-align: center;
     margin-top: 1.83%;
     padding-bottom: 5%;
     padding-top: 5%;
-    margin-left: 4%;
 
 }
 
 .icr {
     
-    width: 270px;
+    width: 100%;
 
 
 }
