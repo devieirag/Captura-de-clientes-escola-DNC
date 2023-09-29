@@ -102,13 +102,15 @@ display: grid;
 grid-auto-flow: column;
 margin-top: 25px;
 
-}
-
-.icr  {
-margin-left: 80px;
-object-fit: cover;
 
 }
+
+.icr {
+
+align-items: center;
+
+}
+
 
 #brun {
 
@@ -122,19 +124,17 @@ display: none;
 
 }
 
-#setadir
-{
 
-margin-top: 10%;
-display: none;
+#next-button {
+
+
+transform: rotate(180deg);
 
 }
 
-
-
 .setas {
 
-    margin-top: 55%;
+    margin-top: 30%;
     cursor: pointer;
 
 }
@@ -312,7 +312,7 @@ text-align: center;
 
 #carrossel {
     padding: 3.66%;
-    align-items: center;
+
 }
 
 #titulocr {
@@ -322,24 +322,25 @@ text-align: center;
 
 #cards {
     margin-top: 1.83%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-left: 4%;
 
 }
 
 .icr {
-    margin-left: 1%;
-    width: 150px;
-    align-items: center;
+    width: 200px;
+
+
+}
+
+.setas {
+
+margin-top: 40%;
 
 }
 
 
-
-#brun {
-
-margin-left: 14.5%;
-padding-bottom: 26%;
-
-}
 
 
 /*fim do carrossel aqui*/
