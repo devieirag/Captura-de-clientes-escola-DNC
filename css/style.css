@@ -86,14 +86,18 @@ align-items: center;
 #carrossel
 
 {
+    padding: 50px 50px 50px 170px;
     background-color: #247ba0;
-    padding: 50px;
+    align-items: center;
+   
 }
 
 #titulocr {
    color: white;
    text-align: center;
-   font-size: 25px;
+   font-size: 33px;
+   
+
 }
 
 #cards
@@ -103,9 +107,7 @@ grid-auto-flow: column;
 margin-top: 25px;
 align-items: center;
 
-
 }
-
 
 
 #brun {
@@ -120,14 +122,22 @@ display: none;
 
 }
 
+#prev-button {
+
+margin-right: 30px;
+
+}
 
 
 #next-button {
 
 
 transform: rotate(180deg);
+margin-left: 30px;
 
 }
+
+
 
 .setas {
 
@@ -193,7 +203,7 @@ transition-duration: 0.5s;
 
 }
 
-@media only screen and (max-width:768px){
+@media only screen and (max-width: 1280px) and (min-width: 50px){
 
 /*menu superior*/
 
