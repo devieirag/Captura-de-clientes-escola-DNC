@@ -23,7 +23,7 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 </ul>
 
-Palavras-Chave:
+<h1>Palavras-Chave:</h1>
 
 + Landing Page
 + Captura de Clientes
@@ -33,11 +33,11 @@ Palavras-Chave:
 + Formulário de Cadastro
 + Design Responsivo
 
-Contribuições:
+<h1>Contribuições:</h1>
 + Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para aprimorar o projeto.
 
-Licença:
+<h1>Licença:</h1>
 + Este projeto é distribuído sob a licença MIT, proporcionando liberdade para personalizações.
 
-Contato:
+<h1>Contato:</h1>
 + Dúvidas ou sugestões? Entre em contato conosco. Agradecemos por explorar nossa Landing Page de Captura! 🚀
