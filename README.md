@@ -26,26 +26,6 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 <h1>Palavras-Chave:</h1>
 
-+ Lan# landig-page-dnc
-projeto de landing page da escola dnc realizado por mim do curso formação em tecnologia 
-Landing Page de Captura de Clientes
-
-<h1>Descrição:</h1>
-Repositório contendo um projeto web de uma Landing Page de Captura de Clientes desenvolvido com HTML, CSS e JavaScript. Esta página tem como objetivo atrair e converter clientes interessados em nossos produtos ou serviços.
-
-<h1>Funcionalidades Principais:</h1>
-
-<ul>
-<li>Formulário de Cadastro Intuitivo.</li>
-<li>Design Responsivo para todos os dispositivos.
-</li>
-<li>Integração dinâmica com JavaScript para uma experiência interativa.
-</li>
-</ul>
-
-
-<h1>Palavras-Chave:</h1>
-
 + Landing Page
 + Captura de Clientes
 + HTML
