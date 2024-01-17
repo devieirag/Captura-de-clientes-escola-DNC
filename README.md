@@ -25,13 +25,12 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 <h1>Palavras-Chave:</h1>
 
-+ Landing Page
-+ Captura de Clientes
-+ HTML
-+ CSS
-+ JavaScript
-+ Formulário de Cadastro
-+ Design Responsivo
+<ul>
+<li> #LandingPage #CapturadeClientes #HTML #CSS #JavaScript #FormulariodeCadastro #DesignResponsivo</li>
+</ul>
 
-Contato:
-Dúvidas ou sugestões? Entre em contato comigo. Agradeço por explorar nossa Landing Page de Captura! 🚀
+<h1>Contato:</h1>
+
+<ul>
+<li> Dúvidas ou sugestões? Entre em contato comigo. Agradeço por explorar nossa Landing Page de Captura! 🚀</li>
+</ul>
