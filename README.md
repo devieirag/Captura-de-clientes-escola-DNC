@@ -23,14 +23,15 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 </ul>
 
-<h1>Palavras-Chave:</h1>
-
-<ul>
-<li> #LandingPage #CapturadeClientes #HTML #CSS #JavaScript #FormulariodeCadastro #DesignResponsivo</li>
-</ul>
-
 <h1>Contato:</h1>
 
 <ul>
 <li> Dúvidas ou sugestões? Entre em contato comigo. Agradeço por explorar nossa Landing Page de Captura! 🚀</li>
+<li> contato: cttdarlv@yahoo.com</li>
+</ul>
+
+<h1>Palavras-Chave:</h1>
+
+<ul>
+<li> #LandingPage #CapturadeClientes #HTML #CSS #JavaScript #FormulariodeCadastro #DesignResponsivo</li>
 </ul>
