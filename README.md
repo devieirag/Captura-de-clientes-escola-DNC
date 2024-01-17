@@ -19,8 +19,7 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 <ul>
   
-<li>Explore a Landing Page e experimente o formulário de cadastro.:</li> 
-
+H0wrpr0g4m3rXP
 </ul>
 
 <h1>Palavras-Chave:</h1>
@@ -46,7 +45,7 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 <ul>
   
-<li>Explore a Landing Page e experimente o formulário de cadastro.:</li> 
+<li><a href="https://landig-page-dnc.netlify.app/"> Explore a Landing Page e experimente o formulário de cadastro aqui.</a> </li> 
 
 </ul>
 
