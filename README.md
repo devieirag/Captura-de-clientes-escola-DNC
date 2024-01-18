@@ -10,7 +10,9 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 <ul>
 <li>Formulário de Cadastro Intuitivo.</li>
 
+<div width="50%"
 ![Formulário](https://github.com/devieirag/Captura-de-clientes-escola-DNC/assets/134144847/e2ed68c1-c0c4-4f13-b5ae-d2cf887e51be)
+</div>
 
 <li>Design Responsivo para todos os dispositivos.
 </li>
