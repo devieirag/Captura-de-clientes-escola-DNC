@@ -1,10 +1,3 @@
-<p>Ìndice:</p>
-<p><a href="#desc">Descrição</a></p>  
-<p><a href="#fp">Funcionalidades Principais</a></p>
-<p><a href="#cum">Como utilizar</a></p>
-<p><a href="#ctt">Contato</a></p>
-<p><a href="#pc">Palavras Chave</a></p>
-
 # Página de Captura de Clientes
 projeto de landing page da escola dnc realizado por mim do curso formação em tecnologia 
 Landing Page de Captura de Clientes
