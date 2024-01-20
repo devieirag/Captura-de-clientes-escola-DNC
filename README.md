@@ -1,11 +1,11 @@
 <div>
-<p>Ìndice</p>
+<p>Ìndice:</p>
 <ul>
-<li><a href="#desc">Funcionalidades Principais</a></li>  
+<li><a href="#desc">Descrição</a></li>  
 <li><a href="#fp">Funcionalidades Principais</a></li>
-<li><a href="#cum">Funcionalidades Principais</a></li>
-<li><a href="#ctt">Funcionalidades Principais</a></li>
-<li><a href="#pc">Funcionalidades Principais</a></li>
+<li><a href="#cum">Como utilizar</a></li>
+<li><a href="#ctt">Contato</a></li>
+<li><a href="#pc">Palavras Chave</a></li>
 </ul>
 
   
