@@ -1,4 +1,5 @@
 # Página de Captura de Clientes
+Primeito Projeto do curso de Formação em Tecnologia
 
 <h1 id="desc">Descrição:</h1>
 Repositório contendo um projeto web de uma Landing Page de Captura de Clientes desenvolvido com HTML, CSS e JavaScript. Esta página tem como objetivo atrair e converter clientes interessados nos produtos e serviços da escola DNC.
