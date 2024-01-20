@@ -1,8 +1,21 @@
+<div>
+<p>Ìndice</p>
+<ul>
+<li><a href="#desc">Funcionalidades Principais</a></li>  
+<li><a href="#fp">Funcionalidades Principais</a></li>
+<li><a href="#cum">Funcionalidades Principais</a></li>
+<li><a href="#ctt">Funcionalidades Principais</a></li>
+<li><a href="#pc">Funcionalidades Principais</a></li>
+</ul>
+
+  
+</div>
+
 # Página de Captura de Clientes
 projeto de landing page da escola dnc realizado por mim do curso formação em tecnologia 
 Landing Page de Captura de Clientes
 
-<h1>Descrição:</h1>
+<h1 id="desc">Descrição:</h1>
 Repositório contendo um projeto web de uma Landing Page de Captura de Clientes desenvolvido com HTML, CSS e JavaScript. Esta página tem como objetivo atrair e converter clientes interessados nos produtos e serviços da escola DNC.
 
 <style>
@@ -11,7 +24,7 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 </style>
 
 
-<h1>Funcionalidades Principais:</h1>
+<h1 id="fp">Funcionalidades Principais:</h1>
 
 <ul>
 <li>Formulário de Cadastro Intuitivo.</li>
@@ -38,7 +51,7 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 </ul>
 
-<h1>Como Utilizar:</h1>
+<h1 id="cum">Como Utilizar:</h1>
 
 <ul>
 
@@ -46,14 +59,14 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 </ul>
 
-<h1>Contato:</h1>
+<h1 id="ctt">Contato:</h1>
 
 <ul>
 <li> Dúvidas ou sugestões? Entre em contato comigo. Agradeço por explorar nossa Landing Page de Captura! 🚀</li>
 <li> contato: cttdarlv@yahoo.com</li>
 </ul>
 
-<h1>Palavras-Chave:</h1>
+<h1 id="pc">Palavras-Chave:</h1>
 
 <ul>
 <li> #LandingPage #CapturadeClientes #HTML #CSS #JavaScript #FormulariodeCadastro #DesignResponsivo</li>
