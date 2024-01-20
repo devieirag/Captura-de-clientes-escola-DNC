@@ -1,4 +1,4 @@
-# landig-page-dnc
+# Página de Captura de Clientes
 projeto de landing page da escola dnc realizado por mim do curso formação em tecnologia 
 Landing Page de Captura de Clientes
 
