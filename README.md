@@ -1,8 +1,11 @@
 # Página de Captura de Clientes
-Projeto sensacional desenvolvido por mim. Agradeço demais a escola DNC
+<ul>
+<li>sensacional desenvolvido por mim. Agradeço demais a escola DNC.</li> 
+</ul>
 
 <h1 id="desc">Descrição:</h1>
-Repositório contendo um projeto web de uma Landing Page de Captura de Clientes desenvolvido com HTML, CSS e JavaScript. Esta página tem como objetivo atrair e converter clientes interessados nos produtos e serviços da escola DNC.
+<ul>
+Repositório contendo um projeto web de uma Landing Page de Captura de Clientes desenvolvido com HTML, CSS e JavaScript. Esta página tem como objetivo atrair e converter clientes interessados nos produtos e serviços da escola DNC.</ul>
 
 
 <h1 id="fp">Funcionalidades Principais:</h1>
@@ -16,11 +19,11 @@ Repositório contendo um projeto web de uma Landing Page de Captura de Clientes 
 
 <li>Design Responsivo para todos os dispositivos:
 
-<p>Desktop</p>
+<p>Desktop:</p>
 
 <img src="src/assets/Resp comp.png" width="75%">
 
-<p>Mobile</p>
+<p>Mobile/Tablets:</p>
 <img src="src/assets/Resp cel.jpg" width="30%">
 
 </li>
